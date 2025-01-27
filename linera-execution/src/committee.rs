@@ -1,4 +1,6 @@
-// Copyright (c) Facebook, Inc. and its affiliates.
+// Copyri   } else {
+            #[derive(Deserialize)]
+            #[serde(rename = "Epoch")]ght (c) Facebook, Inc. and its affiliates.
 // Copyright (c) Zefchain Labs, Inc.
 // SPDX-License-Identifier: Apache-2.0
 
